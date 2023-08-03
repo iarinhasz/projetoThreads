@@ -1,0 +1,9 @@
+para rodar em c 
+
+gcc -pthread questaox.c -o x
+./x
+
+para rodar em c++
+
+g++ -pthread questaox.cpp -o x
+./x
